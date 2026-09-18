@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9d&height=200&section=header&text=whoami_%20Rapha&fontSize=42&fontColor=00FF9D&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20student%20%40%20EPITA&descAlignY=58&descSize=18&descColor=00FF9D" alt="Banner > whoami_" width="100%">
 </p>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF9D&background=00000000&center=true&vCenter=true&width=650&height=50&lines=root%40rapha%3A~%23+whoami;2nd-year+eng.+student+%40+EPITA+Toulouse;root%40rapha%3A~%23+cat+goal.txt;Hunting+for+a+cybersec+alternance+-+2027" alt="Terminal typing animation">
+</p>
 
 Hi! I'm Rapha, a 2nd-year *cycle prépa* engineering student at EPITA (Toulouse campus), passionate about cybersecurity — especially offensive security and penetration testing.
 
@@ -14,15 +14,6 @@ Hi! I'm Rapha, a 2nd-year *cycle prépa* engineering student at EPITA (Toulouse 
 
 I am currently looking for a **cybersecurity work-study placement (alternance)** starting **early 2027**, to cover my 3 years of *cycle ingénieur* at EPITA.
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF9D&background=0D1117&center=true&vCenter=true&width=420&height=100&lines=%24+whoami;Rapha+-+EPITA+Toulouse;%24+cat+goal.txt;Looking+for+a+cybersec+alternance+2027" alt="Terminal widget">
-
-</td>
-</tr>
-</table>
-
 <h3>🚀 What I'm currently working on</h3>
 <ul>
   <li>Building the CLI layer and port scanning module of <strong>ReconForge</strong>, my security recon tool.</li>
@@ -30,10 +21,6 @@ I am currently looking for a **cybersecurity work-study placement (alternance)**
   <li>Solving challenges on <strong>Root-Me</strong> to strengthen my offensive security skills.</li>
   <li>Preparing my <strong>alternance</strong> search for the 2027 cycle ingénieur.</li>
 </ul>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelBlanc&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=c9d1d9&border_color=00FF9D&hide_border=false" alt="GitHub stats">
-</p>
 
 <h3>🛠️ Languages & Tools</h3>
 <p align="left">
